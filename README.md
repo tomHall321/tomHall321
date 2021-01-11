@@ -1,4 +1,4 @@
-<h1>Hello, I'm Tom</h1>
+<h1>Hi, I'm Tom 👋🏻</h1>
 
 <h3>About me:</h3>
 <p>After working as a Test Engineer for 4 years I took the step of attending a 3-month, full-time coding bootcamp with DevelopMe_</p>
