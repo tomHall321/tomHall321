@@ -5,7 +5,7 @@
 <p>I have commercial experience writing test automation frameworks in JavaScript and Python, and have worked for a start-up and a consultancy.</p>
 <p>I now feel comfortable using the React and Laravel frameworks to produce full-stack JS/PHP applications; and I’m hoping to join a company which will help me continue to develop my skills!</p>
 
-<h3> Personal projects </h3>
+<h3> Personal projects: </h3>
 <ul>
   <li>https://tomhall321.github.io/football-fever/ (football team generation app built using React) </li>
   <li>https://github.com/tomHall321/prowlr-front-end (group project, built using React and Laravel)</li>
