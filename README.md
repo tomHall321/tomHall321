@@ -9,7 +9,7 @@
 <ul>
   <li>https://tomhall321.github.io/football-fever/ (football team generation app built using React) </li>
   <li>https://github.com/tomHall321/prowlr-front-end (group project, built using React and Laravel)</li>
-  <li>https://github.com/tomHall321/green-fingers(gardening app, to be built using React and Laravel)</li>
+  <li>https://github.com/tomHall321/green-fingers (gardening app, to be built using React and Laravel)</li>
 </ul>  
   
 <h3 align="left">Languages, Tools, Techniques:</h3>
