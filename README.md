@@ -28,7 +28,7 @@
   <li>Selenium</li>
 </ul>
 
-<h3 align="left">I'm currently available for work</h3>
+<h3 align="left">I'm currently available for work:</h3>
 <p>Reach me at: <strong>tomhall4321@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
